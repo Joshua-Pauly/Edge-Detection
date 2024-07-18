@@ -1,6 +1,6 @@
 # Edge-Detection
 
-Using edge detectors Canny Sobel Prewitt and Roberts we can detect edges from the original image below. As you can see Canny detected the most edges. Sobe; and Prewitt were very similar however there are slight variations on the corners. Roberts detection algorithm detected the least amount of edges. 
+Using edge detectors Canny Sobel Prewitt and Roberts we can detect edges from the original image below. As you can see Canny detected the most edges. Sobel and Prewitt were very similar however there are slight variations on the corners. Roberts detection algorithm detected the least amount of edges. 
 
 ![image](https://github.com/user-attachments/assets/640e5e37-a03e-4bee-a6d5-1c9c7915be0f)
 
